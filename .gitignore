@@ -1,0 +1,39 @@
+# Android-specific
+*.iml
+.gradle/
+/local.properties
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio/JetBrains
+.idea/
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# General development
+node_modules/
+dist/
+*.class
+*.log
+*.jar
+target/
+TEST*.xml
+Thumbs.db
+*.app
+*.exe
+*.war
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# OS files
+.DS_Store
