@@ -19,3 +19,10 @@ The app fetches news articles from a REST API and allows users to browse and fil
 - Retrofit
 - Coroutines
 - Android Studio
+
+## What I Learned
+
+- Building Android apps using Jetpack Compose
+- API integration with Retrofit
+- MVVM architecture implementation
+- State management in Compose
